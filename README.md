@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @h1kr04
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning c language, laravel and cybersecurity basic
+- 👋 Hi, I’m @hope0529.py
+- 👀 I’m interested in cybersecurity and web dev
+- 🌱 I’m currently learning python, have prior c language knowledge,and cybersecurity stuff
 - 💞️ I’m looking to collaborate on  web designing and cybersecurity 
-- 📫  Reach me - Krishnadwivedi1404@gmail.com 
-- 😄 Pronouns: Krishna
+- 📫  Reach me - whoami0100@duck.com
+- 😄 Pronouns: HOPE0529.PY
 - ⚡ Fun fact: I LOVE YOU 😘🫠
 
 <!---
