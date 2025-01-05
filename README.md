@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, have prior c language knowledge,and cybersecurity stuff
 - 💞️ I’m looking to collaborate on  web designing and cybersecurity 
 - 📫  Reach me - whoami0100@duck.com
-- 😄 Pronouns: HOPE0529.PY
+- 😄 Pronouns: HOPE
 - ⚡ Fun fact: I LOVE YOU 😘🫠
 
 <!---
