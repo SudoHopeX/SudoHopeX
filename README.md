@@ -28,7 +28,8 @@ I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacki
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishna-d-3725b3308)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hope.techdev@gmail.com)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sudo-hope0529.sudo-hope0529)
+## Visitor Count
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sudo-hope0529.sudo-hope0529)
 <!---
 Hope0529.py/README.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
