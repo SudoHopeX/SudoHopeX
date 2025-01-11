@@ -29,7 +29,9 @@ I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacki
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hope.techdev@gmail.com)
 
 ## Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sudo-hope0529.sudo-hope0529)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-hope0529.sudo-hope0529" alt="Visitor Count" style="width: 200px; height: 50px;"/>
+</div>
 <!---
 Hope0529.py/README.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
