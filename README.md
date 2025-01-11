@@ -30,8 +30,10 @@ I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacki
 
 ## Visitor Count
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-hope0529.sudo-hope0529" alt="Visitor Count" style="width: 200px; height: 50px;"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-hope0529.sudo-hope0529" alt="Visitor Count" style="width: 240px; height: 60px;"/>
 </div>
+
+### Thanks for visiting my profile! Have a great day! 😊
 <!---
 Hope0529.py/README.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
