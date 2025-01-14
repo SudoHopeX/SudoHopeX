@@ -6,7 +6,7 @@ I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacki
 - 🌱 I’m currently learning Cyber Security, Ethical hacking, Python and Web Development.
 - 💼 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Cyber Security, Python, and Web Development.
-- 📫 How to reach me: [Email](mailto:hope.techdev@gmail.com)
+- 📫 How to reach me: [Email](mailto:sud0hope.techie@gmail.com)
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
