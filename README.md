@@ -1,7 +1,7 @@
 # Hi there, I'm sudo-hope0529! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python, web development and open-source contributions. I love exploring new technologies and constantly improving my skills.
+I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python, web development[AI driven code generation] and open-source contributions. I love exploring new technologies and constantly improving my skills.
 
 - 🌱 I’m currently learning Cyber Security, Ethical hacking, Python and Web Development.
 - 💼 I’m looking to collaborate on open-source projects.
