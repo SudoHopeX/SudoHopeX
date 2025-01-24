@@ -1,12 +1,13 @@
 # Hi there, I'm sudo-hope0529! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python, web development[AI driven code generation] and open-source contributions. I love exploring new technologies and constantly improving my skills.
+I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python, web development[with AI driven code generation] and open-source contributions. I love exploring new technologies and constantly improving my skills.
+
+![Cybersecurity Animation](https://media.giphy.com/media/3o7aDd9g8F9eXrR7rS/giphy.gif)
 
 - 🌱 I’m currently learning Cyber Security, Ethical hacking, Python and Web Development.
 - 💼 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Cyber Security, Python, and Web Development.
-- 📫 How to reach me: [Email](mailto:sud0hope.techie@gmail.com)
+- 💬 Ask me about Cyber Security, Python, and Web Development[ Only with AI Driven Code generation ].
 
 ## Tools
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
