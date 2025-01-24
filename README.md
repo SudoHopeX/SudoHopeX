@@ -3,11 +3,12 @@
 ## About Me
 I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python, web development[with AI driven code generation] and open-source contributions. I love exploring new technologies and constantly improving my skills.
 
-![Cybersecurity Animation]([https://media.giphy.com/media/3o7aDd9g8F9eXrR7rS/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZjMjZocmVzeWdvcHJtdms0bzNyOTlyYTVyazhidzJnaHg2emNrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/L7Lm7JSWSRkW5Vvjjg/giphy.gif))
-
 - 🌱 I’m currently learning Cyber Security, Ethical hacking, Python and Web Development.
 - 💼 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Cyber Security, Python, and Web Development[ Only with AI Driven Code generation ].
+
+![Cybersecurity Animation]([https://media.giphy.com/media/3o7aDd9g8F9eXrR7rS/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZjMjZocmVzeWdvcHJtdms0bzNyOTlyYTVyazhidzJnaHg2emNrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/L7Lm7JSWSRkW5Vvjjg/giphy.gif))
+
 
 ## Tools
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
