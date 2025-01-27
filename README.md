@@ -7,7 +7,7 @@ I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacki
 - 💼 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Cyber Security, Python, and Web Development[ Only with AI Driven Code generation ].
 
-![Matrix Code](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<img src="https://your-svg-url.com/cyber-bg.svg" alt="Cyber Background" width="100%">
 
 
 ## Tools
