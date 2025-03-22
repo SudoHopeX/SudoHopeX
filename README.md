@@ -11,6 +11,7 @@ I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacki
 ## Tools
 ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
 ![WSL](https://img.shields.io/badge/-WSL-333333?style=flat&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 [![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-333333?style=flat&logo=github&logoColor=white)](https://github.com/features/copilot)
