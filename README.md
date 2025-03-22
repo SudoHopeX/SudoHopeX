@@ -22,7 +22,7 @@ I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacki
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 ## GitHub Stats
 ![sudo-hope0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-hope0529&show_icons=true&theme=radical)
