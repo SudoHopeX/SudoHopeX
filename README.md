@@ -1,4 +1,4 @@
-# Hi there, I'm sudo-hope0529! 👋
+# Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋
 
 ## About Me
 I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python, web development[with AI driven code generation] and open-source contributions. I love exploring new technologies and constantly improving my skills.
