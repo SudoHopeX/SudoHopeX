@@ -1,11 +1,16 @@
 # Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python, web development[with AI driven code generation] and open-source contributions. I love exploring new technolo[...]
+I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python, web development[with AI driven code generation] and open-source contributions. I love exploring new info, technologies, and improving my skills.
+
 
 - 🌱 I’m currently exploring Cyber Security(InfoSec, Ethical Hacking), Python.
 - 💼 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Cyber Security and Python.
+
+## Fun Fact
+I am always eager to know How things Work, Don't you ?
+  (Mail me)[mailto:sud0hope.techie@gmail.com] and let me know what you think ?
 
 ## Tools
 ![VMware](https://img.shields.io/badge/-VMware-1f1f1f?style=flat&logo=vmware)
