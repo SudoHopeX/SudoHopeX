@@ -17,10 +17,10 @@ I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacki
 [![GPT-4.0](https://img.shields.io/badge/-GPT--4.0-1f1f1f?style=flat&logo=openai&logoColor=white)](https://openai.com/research/gpt-4)
 
 ## Languages
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3)
-![C](https://img.shields.io/badge/-C-a8b9cc?style=flat&logo=c)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript)
 
