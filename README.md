@@ -10,7 +10,7 @@ I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacki
 
 ## Fun Fact
 I am always eager to know How things Work, Don't you ?
-  (Mail me)[mailto:sud0hope.techie@gmail.com] and let me know what you think ?
+- [Mail me](mailto:sud0hope.techie@gmail.com) and let me know what you think ?
 
 ## Tools
 ![VMware](https://img.shields.io/badge/-VMware-1f1f1f?style=flat&logo=vmware)
