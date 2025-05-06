@@ -1,10 +1,11 @@
 # Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python, web development[with AI driven code generation] and open-source contributions. I love exploring new info, technologies, and improving my skills.
+I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python.
+I love exploring new info, technologies, and improving my skills.
 
 
-- 🌱 I’m currently exploring Cyber Security(InfoSec, Ethical Hacking), Python.
+- 🌱 I’m currently exploring Cyber Security(Ethical Hacking - Pentest, InfoSec), Python.
 - 💼 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Cyber Security and Python.
 
@@ -13,6 +14,7 @@ I am always eager to know How things Work, Don't you ?
 - [Mail me](mailto:sud0hope.techie@gmail.com) and let me know what you think ?
 
 ## Tools
+
 ![VMware](https://img.shields.io/badge/-VMware-1f1f1f?style=flat&logo=vmware)
 ![WSL](https://img.shields.io/badge/-WSL-1c1c1c?style=flat&logo=linux)
 ![Linux](https://img.shields.io/badge/-Linux-5e35b1?style=flat&logo=linux)
@@ -22,6 +24,7 @@ I am always eager to know How things Work, Don't you ?
 [![GPT-4.0](https://img.shields.io/badge/-GPT--4.0-1f1f1f?style=flat&logo=openai&logoColor=white)](https://openai.com/research/gpt-4)
 
 ## Languages
+
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3)
@@ -38,7 +41,7 @@ I am always eager to know How things Work, Don't you ?
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishna-d-3725b3308)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sud0hope.techie@gmail.com)
-[![Linktree](https://img.shields.io/badge/-Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://sudo-hope0529.github.io/Link-tree/)
+[![Hack-tree](https://img.shields.io/badge/-Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://sudo-hope0529.github.io/Link-tree/)
 
 ## Visitor Count
 <div align="center">
