@@ -14,7 +14,7 @@ I am always eager to know How things Work, Don't you ?
 - [Mail me](mailto:sud0hope.techie@gmail.com) and let me know what you think ?
 
 ## Tools
-
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-1f1f1f?style=flat&logo=burp-suite)
 ![VMware](https://img.shields.io/badge/-VMware-1f1f1f?style=flat&logo=vmware)
 ![WSL](https://img.shields.io/badge/-WSL-1c1c1c?style=flat&logo=linux)
 ![Linux](https://img.shields.io/badge/-Linux-5e35b1?style=flat&logo=linux)
@@ -24,13 +24,13 @@ I am always eager to know How things Work, Don't you ?
 [![GPT-4.0](https://img.shields.io/badge/-GPT--4.0-1f1f1f?style=flat&logo=openai&logoColor=white)](https://openai.com/research/gpt-4)
 
 ## Languages
-
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML5-FF5733?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
 
 ## GitHub Stats
 ![sudo-hope0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-hope0529&show_icons=true&theme=radical)
