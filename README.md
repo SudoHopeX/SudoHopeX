@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sudo-hope0529/sudo-hope0529/main/animated-bg.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/sudo-hope0529/sudo-hope0529/main/animation.svg" width="100%" />
 </p>
 
 # Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋
