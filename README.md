@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sudo-hope0529/sudo-hope0529/main/animation.svg" width="100%" />
-</p>
+     <img src="animation.svg" width="100%" alt="Hacker & Bug Bounty Enthusiast" />
+   </p>
 
 # Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋
 
