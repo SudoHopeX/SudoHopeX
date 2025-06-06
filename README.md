@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-bg.svg" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm sudo-hope0529 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile!;Ethical+Hacking+Enthusiast;Cyber+Security+Awareness+Advocate;Python" alt="Typing SVG" />
+ 
+
 # Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋
 
 ## About Me
