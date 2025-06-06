@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-bg.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/sudo-hope0529/sudo-hope0529/main/animated-bg.svg" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm sudo-hope0529 👋</h1>
