@@ -1,7 +1,7 @@
 # Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in Cyber Security, Ethical Hacking, Python.
+I'm a passionate Cyber Security, Ethical Hacking Enthusiast.
 I love exploring new info, technologies, and improving my skills.
 
 
@@ -30,7 +30,6 @@ I am always eager to know How things Work, Don't you ?
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-1f1f1f?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 
 ## GitHub Stats
