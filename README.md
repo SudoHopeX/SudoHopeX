@@ -2,19 +2,17 @@
   <img src="https://raw.githubusercontent.com/sudo-hope0529/sudo-hope0529/main/animated-bg.svg" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm sudo-hope0529 👋</h1>
+<h1 align="center">Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋</h1>
+
+
+## About Me
+Passionate >
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile!;Ethical+Hacking+Enthusiast;Cyber+Security+Awareness+Advocate;Python" alt="Typing SVG" />
  
 
-# Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋
-
-## About Me
-I'm a passionate Cyber Security, Ethical Hacking Enthusiast.
-I love exploring new info, technologies, and improving my skills.
-
-
+- 🌐 I love exploring new info, technologies, and improving my skills.
 - 🌱 I’m currently exploring Cyber Security(Ethical Hacking - Pentest, InfoSec), Python.
 - 💼 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Cyber Security and Python.
