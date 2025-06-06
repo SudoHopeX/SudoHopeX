@@ -22,10 +22,10 @@ I am always eager to know How things Work, Don't you ?
 
 ## Projects
 #### HashStorm - Hash Identifier & Cracker
-![View Tool](https://github.com/sudo-hope0529/HashStorm)
+[View Tool](https://github.com/sudo-hope0529/HashStorm)
 
 #### ISC² CC Practice Quiz
-![Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
+[Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Tools
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-1f1f1f?style=flat&logo=burp-suite)
