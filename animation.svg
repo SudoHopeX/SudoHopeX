@@ -1,25 +1,65 @@
 <svg width="100%" height="180" viewBox="0 0 600 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="600" height="180" fill="#101820"/>
-  <!-- Matrix rain -->
+
+  <!-- Matrix rain with animation -->
   <g font-family="Fira Mono, monospace" font-size="14" fill="#39FF14" opacity="0.25">
-    <text x="15" y="40">0110110</text>
-    <text x="80" y="90">1101001</text>
-    <text x="150" y="60">1001101</text>
-    <text x="200" y="130">0111001</text>
-    <text x="260" y="40">1001001</text>
-    <text x="350" y="80">1110101</text>
-    <text x="430" y="60">1011001</text>
-    <text x="510" y="120">0110110</text>
+    <text x="15" y="40">
+      <animate attributeName="y" from="0" to="180" dur="5s" repeatCount="indefinite" />
+      0110110
+    </text>
+    <text x="80" y="90">
+      <animate attributeName="y" from="0" to="180" dur="6s" repeatCount="indefinite" />
+      1101001
+    </text>
+    <text x="150" y="60">
+      <animate attributeName="y" from="0" to="180" dur="4s" repeatCount="indefinite" />
+      1001101
+    </text>
+    <text x="200" y="130">
+      <animate attributeName="y" from="0" to="180" dur="7s" repeatCount="indefinite" />
+      0111001
+    </text>
+    <text x="260" y="40">
+      <animate attributeName="y" from="0" to="180" dur="5.5s" repeatCount="indefinite" />
+      1001001
+    </text>
+    <text x="350" y="80">
+      <animate attributeName="y" from="0" to="180" dur="6.5s" repeatCount="indefinite" />
+      1110101
+    </text>
+    <text x="430" y="60">
+      <animate attributeName="y" from="0" to="180" dur="4.5s" repeatCount="indefinite" />
+      1011001
+    </text>
+    <text x="510" y="120">
+      <animate attributeName="y" from="0" to="180" dur="7.5s" repeatCount="indefinite" />
+      0110110
+    </text>
   </g>
-  <!-- Hacker face (hoodie) -->
-  <ellipse cx="120" cy="100" rx="40" ry="50" fill="#222" stroke="#39FF14" stroke-width="3"/>
-  <ellipse cx="120" cy="110" rx="18" ry="25" fill="#101820" stroke="#39FF14" stroke-width="2"/>
+
+  <!-- Hacker face with neon glow filter -->
+  <defs>
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#39FF14" flood-opacity="0.8"/>
+      <feComposite operator="in" in2="blur"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <ellipse cx="120" cy="100" rx="40" ry="50" fill="#222" stroke="#39FF14" stroke-width="3" filter="url(#neonGlow)"/>
+  <ellipse cx="120" cy="110" rx="18" ry="25" fill="#101820" stroke="#39FF14" stroke-width="2" filter="url(#neonGlow)"/>
   <ellipse cx="110" cy="110" rx="4" ry="7" fill="#39FF14"/>
   <ellipse cx="130" cy="110" rx="4" ry="7" fill="#39FF14"/>
-  <rect x="105" y="130" width="30" height="6" rx="3" fill="#39FF14" opacity="0.85"/>
-  <!-- Bug icon -->
+  <rect x="105" y="130" width="30" height="6" rx="3" fill="#39FF14" opacity="0.85" filter="url(#neonGlow)"/>
+
+  <!-- Animated bug icon -->
   <g>
-    <ellipse cx="500" cy="100" rx="16" ry="20" fill="#F44336" stroke="#fff" stroke-width="2"/>
+    <ellipse cx="500" cy="100" rx="16" ry="20" fill="#F44336" stroke="#fff" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" from="0 500 100" to="360 500 100" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
     <ellipse cx="500" cy="93" rx="10" ry="7" fill="#fff"/>
     <line x1="500" y1="80" x2="500" y2="67" stroke="#fff" stroke-width="2"/>
     <line x1="484" y1="93" x2="468" y2="80" stroke="#fff" stroke-width="2"/>
@@ -27,8 +67,17 @@
     <line x1="484" y1="107" x2="468" y2="120" stroke="#fff" stroke-width="2"/>
     <line x1="516" y1="107" x2="532" y2="120" stroke="#fff" stroke-width="2"/>
   </g>
-  <!-- Text -->
-  <text x="200" y="90" fill="#39FF14" font-family="Fira Mono, monospace" font-size="38" font-weight="bold">Hacker</text>
-  <text x="200" y="135" fill="#F44336" font-family="Fira Mono, monospace" font-size="35" font-weight="bold">Bug Bounty</text>
-  <text x="200" y="160" fill="#fff" font-family="Fira Mono, monospace" font-size="20">sudo-hope0529</text>
+
+  <!-- Self-drawing text for hacker and bug bounty -->
+  <text x="200" y="90" fill="#39FF14" font-family="Fira Mono, monospace" font-size="38" font-weight="bold" stroke="#39FF14" stroke-width="2" stroke-dasharray="1000" stroke-dashoffset="1000">
+    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2s" fill="freeze" repeatCount="1"/>
+    Hacker
+  </text>
+  <text x="200" y="135" fill="#F44336" font-family="Fira Mono, monospace" font-size="35" font-weight="bold" stroke="#F44336" stroke-width="2" stroke-dasharray="1000" stroke-dashoffset="1000">
+    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2s" fill="freeze" repeatCount="1"/>
+    Bug Bounty
+  </text>
+  <text x="200" y="160" fill="#fff" font-family="Fira Mono, monospace" font-size="20">
+    sudo-hope0529
+  </text>
 </svg>
