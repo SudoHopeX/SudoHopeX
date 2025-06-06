@@ -37,47 +37,59 @@
     </text>
   </g>
 
+  <g>
+    <circle cx="100" cy="80" r="40" fill="#00ff00">
+      <animate attributeName="opacity" values="1;0.5;1" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <path d="M60 120 Q100 150 140 120" fill="none" stroke="#00ff00" stroke-width="2">
+      <animate attributeName="stroke-width" values="2;4;2" dur="1s" repeatCount="indefinite" />
+    </path>
+    <path d="M70 90 Q100 110 130 90" fill="none" stroke="#00ff00" stroke-width="2">
+      <animate attributeName="stroke-width" values="2;4;2" dur="1s" repeatCount="indefinite" />
+    </path>
+    <text x="100" y="160" font-family="Arial" font-size="12" fill="#00ff00" text-anchor="middle">010101</text>
+  </g>
+
   <!-- Hacker face with neon glow filter -->
   <defs>
     <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur"/>
-      <feFlood flood-color="#39FF14" flood-opacity="0.8"/>
-      <feComposite operator="in" in2="blur"/>
+      <feOffset in="blur" dx="0" dy="0" result="offsetBlur"/>
+      <feFlood flood-color="#00ff00" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="offsetBlur" operator="in" result="glow"/>
       <feMerge>
-        <feMergeNode/>
+        <feMergeNode in="glow"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <ellipse cx="120" cy="100" rx="40" ry="50" fill="#222" stroke="#39FF14" stroke-width="3" filter="url(#neonGlow)"/>
-  <ellipse cx="120" cy="110" rx="18" ry="25" fill="#101820" stroke="#39FF14" stroke-width="2" filter="url(#neonGlow)"/>
-  <ellipse cx="110" cy="110" rx="4" ry="7" fill="#39FF14"/>
-  <ellipse cx="130" cy="110" rx="4" ry="7" fill="#39FF14"/>
-  <rect x="105" y="130" width="30" height="6" rx="3" fill="#39FF14" opacity="0.85" filter="url(#neonGlow)"/>
-
-  <!-- Animated bug icon -->
-  <g>
-    <ellipse cx="500" cy="100" rx="16" ry="20" fill="#F44336" stroke="#fff" stroke-width="2">
-      <animateTransform attributeName="transform" type="rotate" from="0 500 100" to="360 500 100" dur="3s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="500" cy="93" rx="10" ry="7" fill="#fff"/>
-    <line x1="500" y1="80" x2="500" y2="67" stroke="#fff" stroke-width="2"/>
-    <line x1="484" y1="93" x2="468" y2="80" stroke="#fff" stroke-width="2"/>
-    <line x1="516" y1="93" x2="532" y2="80" stroke="#fff" stroke-width="2"/>
-    <line x1="484" y1="107" x2="468" y2="120" stroke="#fff" stroke-width="2"/>
-    <line x1="516" y1="107" x2="532" y2="120" stroke="#fff" stroke-width="2"/>
+  <g filter="url(#neonGlow)">
+    <circle cx="100" cy="80" r="40" fill="#00ff00" stroke="#00ff00" stroke-width="2"/>
+    <path d="M60 120 Q100 150 140 120" fill="none" stroke="#00ff00" stroke-width="2"/>
+    <path d="M70 90 Q100 110 130 90" fill="none" stroke="#00ff00" stroke-width="2"/>
+    <text x="100" y="160" font-family="Arial" font-size="12" fill="#00ff00" text-anchor="middle">010101</text>
   </g>
 
+  <!-- New Animated Bug Icon -->
+  <path id="bug-body" d="M50 10 L70 50 L30 50 Z" fill="green">
+    <animateMotion path="M 50 50 Q 60 40 70 50 Q 80 60 70 50 Q 60 40 50 50" dur="2s" repeatCount="indefinite" />
+  </path>
+
   <!-- Self-drawing text for hacker and bug bounty -->
-  <text x="200" y="90" fill="#39FF14" font-family="Fira Mono, monospace" font-size="38" font-weight="bold" stroke="#39FF14" stroke-width="2" stroke-dasharray="1000" stroke-dashoffset="1000">
+  <text x="200" y="90" fill="#39FF14" font-family="Fira Mono, monospace" font-size="58" font-weight="bold" stroke="#39FF14" stroke-width="2" stroke-dasharray="1000" stroke-dashoffset="1000">
     <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2s" fill="freeze" repeatCount="1"/>
     Hacker
+    <animate attributeName="stroke-dasharray" values="0; 100; 200; 300" dur="2s" repeatCount="1" />
   </text>
-  <text x="200" y="135" fill="#F44336" font-family="Fira Mono, monospace" font-size="35" font-weight="bold" stroke="#F44336" stroke-width="2" stroke-dasharray="1000" stroke-dashoffset="1000">
+  <!-- <text x="200" y="118" fill="#F44336" font-family="Fira Mono, monospace" font-size="35" font-weight="bold" stroke="#F44336" stroke-width="2" stroke-dasharray="1000" stroke-dashoffset="1000">
     <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2s" fill="freeze" repeatCount="1"/>
     Bug Bounty
-  </text>
-  <text x="200" y="160" fill="#fff" font-family="Fira Mono, monospace" font-size="20">
-    sudo-hope0529
+  </text> -->
+  <style>
+    @keyframes typing { from { width: 0; } to { width: 100%; } }
+    text { animation: typing 2s steps(40) forwards; }
+  </style>
+  <text x="200" y="155" fill="#fff" font-family="Fira Mono, monospace" font-size="20" stroke="#fff" stroke-width="1">
+    sudo-hope0529 [Krishna Dwivedi]
   </text>
 </svg>
