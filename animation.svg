@@ -28,7 +28,7 @@
     <line x1="516" y1="107" x2="532" y2="120" stroke="#fff" stroke-width="2"/>
   </g>
   <!-- Text -->
-  <text x="200" y="90" fill="#39FF14" font-family="Fira Mono, monospace" font-size="38" font-weight="bold">Hacker &</text>
+  <text x="200" y="90" fill="#39FF14" font-family="Fira Mono, monospace" font-size="38" font-weight="bold">Hacker</text>
   <text x="200" y="135" fill="#F44336" font-family="Fira Mono, monospace" font-size="35" font-weight="bold">Bug Bounty</text>
   <text x="200" y="160" fill="#fff" font-family="Fira Mono, monospace" font-size="20">sudo-hope0529</text>
 </svg>
