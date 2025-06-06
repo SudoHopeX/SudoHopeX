@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sudo-hope0529/sudo-hope0529/main/animation.svg" width="100%" alt="Hacker & Bug Bounty Enthusiast" />
 </p>
 
-# Hi there, \n I'm Krishna Dwivedi(sudo-hope0529)! 👋
+## Hi there, I'm Krishna Dwivedi(sudo-hope0529)! 👋
 
 
 ## About Me
@@ -19,6 +19,13 @@
 ## Fun Fact
 I am always eager to know How things Work, Don't you ?
 - [Mail me](mailto:sud0hope.techie@gmail.com) and let me know what you think ?
+
+## Projects
+#### HashStorm - Hash Identifier & Cracker
+![View Tool](https://github.com/sudo-hope0529/HashStorm)
+
+#### ISC² CC Practice Quiz
+![Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Tools
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-1f1f1f?style=flat&logo=burp-suite)
