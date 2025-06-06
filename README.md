@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sudo-hope0529/sudo-hope0529/main/animated-bg.svg" width="100%" />
 </p>
 
-<h1 align="left">Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋</h1>
+# Hi there, I'm Krishna Dwivedi (sudo-hope0529)! 👋
 
 
 ## About Me
