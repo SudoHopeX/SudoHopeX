@@ -85,11 +85,9 @@
     <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2s" fill="freeze" repeatCount="1"/>
     Bug Bounty
   </text> -->
-  <style>
-    @keyframes typing { from { width: 0; } to { width: 100%; } }
-    text { animation: typing 2s steps(40) forwards; }
-  </style>
   <text x="200" y="155" fill="#fff" font-family="Fira Mono, monospace" font-size="20" stroke="#fff" stroke-width="1">
     sudo-hope0529 [Krishna Dwivedi]
+    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2s" fill="freeze" repeatCount="1"/>
+    <animate attributeName="stroke-dasharray" values="0; 100; 200; 300" dur="2s" repeatCount="1" />
   </text>
 </svg>
