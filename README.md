@@ -21,13 +21,11 @@ I am always eager to know How things Work, Don't you ?
 - [Mail me](mailto:sud0hope.techie@gmail.com) and let me know what you think ?
 
 ## Projects
-#### HashStorm - Hash Identifier & Cracker
-[View Tool](https://github.com/sudo-hope0529/HashStorm)
-
-#### ISC² CC Practice Quiz [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
+#### HashStorm - Hash Identifier & Cracker => [View Tool](https://github.com/sudo-hope0529/HashStorm)
+#### ISC² CC Practice Quiz => [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Tools
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-1f1f1f?style=flat&logo=burp-suite)
+![](https://img.shields.io/badge/-Burp%20Suite-1f1f1f?logo=burp-suite)
 ![VMware](https://img.shields.io/badge/-VMware-1f1f1f?style=flat&logo=vmware)
 ![WSL](https://img.shields.io/badge/-WSL-1c1c1c?style=flat&logo=linux)
 ![Linux](https://img.shields.io/badge/-Linux-5e35b1?style=flat&logo=linux)
