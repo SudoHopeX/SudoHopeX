@@ -25,23 +25,23 @@ I am always eager to know How things Work, Don't you ?
 #### ISC² CC Practice Quiz => [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Langiages & Tools
-<p>
-  <!-- Tools -->
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="36" style="vertical-align:middle; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/vmware/607078" width="36" style="vertical-align:middle; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/linux/000000" width="36" style="vertical-align:middle; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" style="vertical-align:middle; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="36" style="vertical-align:middle; margin-right: 16px;"/>
+<!-- Tools -->
+<p align="left">
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6600" alt="Burp Suite" width="54" height="54" style="margin-right: 18px;"/>
+  <img src="https://cdn.simpleicons.org/vmware/607078" alt="VMware" width="54" height="54" style="margin-right: 18px;"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="54" height="54" style="margin-right: 18px;"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="54" height="54" style="margin-right: 18px;"/>
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="54" height="54" style="margin-right: 18px;"/>
 </p>
 
-<p>
-  <!-- Languages -->
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="36" style="vertical-align:middle; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" style="vertical-align:middle; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" style="vertical-align:middle; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/java/007396" width="36" style="vertical-align:middle; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/c/00599C" width="36" style="vertical-align:middle; margin-right: 16px;"/>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="36" style="vertical-align:middle; margin-right: 16px;"/>
+<!-- Languages -->
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="54" height="54" style="margin-right: 18px;"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="54" height="54" style="margin-right: 18px;"/>
+  <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java" width="54" height="54" style="margin-right: 18px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="54" height="54" style="margin-right: 18px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="54" height="54" style="margin-right: 18px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="54" height="54" style="margin-right: 18px;"/>
 </p>
 
 
