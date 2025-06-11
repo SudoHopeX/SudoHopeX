@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/sudo-hope0529/sudo-hope0529/main/animation.svg" width="100%" alt="Hacker & Bug Bounty Enthusiast" />
 </p>
 
-## About Me
-
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=435&lines=Welcome+to+My+Profile!;Ethical+Hacker;Cyber+Security+Awareness+Advocate;Python" alt="Ethical Hacker" />
  
 
