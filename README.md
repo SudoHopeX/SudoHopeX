@@ -25,7 +25,7 @@ I am always eager to know How things Work, Don't you ?
 #### ISC² CC Practice Quiz => [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Tools
-![Burp Suite](https://img.shields.io/badge/-?style=flat&logo=burpsuite&label=&color=transparent&logoWidth=32)
+![Burp Suite](https://img.shields.io/badge/-?style=flat&logo=burpsuite&color=transparent&logoWidth=32&label=)
 ![VMware](https://img.shields.io/badge/-?style=flat&logo=vmware&label=&color=transparent&logoWidth=32)
 ![WSL](https://img.shields.io/badge/-?style=flat&logo=linux&label=&color=transparent&logoWidth=32)
 ![Linux](https://img.shields.io/badge/-?style=flat&logo=linux&label=&color=transparent&logoWidth=32)
