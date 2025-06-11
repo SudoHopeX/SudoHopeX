@@ -8,7 +8,7 @@
 ## About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile!;Ethical+Hacking+Enthusiast;Cyber+Security+Awareness+Advocate;Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=435&lines=Welcome+to+My+Profile!;Ethical+Hacker;Cyber+Security+Awareness+Advocate;Python" alt="Ethical Hacker" />
  
 
 - 🌐 I love exploring new info, technologies, and improving my skills.
@@ -21,22 +21,29 @@ I am always eager to know How things Work, Don't you ?
 - [Mail me](mailto:sud0hope.techie@gmail.com) and let me know what you think ?
 
 ## Projects
-#### HashStorm - Hash Identifier & Cracker => [View Tool](https://github.com/sudo-hope0529/HashStorm)
-#### ISC² CC Practice Quiz => [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
+<div align="center">
+  <a href="https://github.com/sudo-hope0529/HashStorm" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/HashStorm-Hash%20Identifier%20%26%20Cracker-4B8BBE?style=for-the-badge&logo=hashnode&logoColor=white" alt="HashStorm" height="32">
+  </a>
+  <a href="https://sudohope0529.github.io/cc-practice-quiz" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/ISC²%20CC%20Practice%20Quiz-Take%20Your%20Test-0081C9?style=for-the-badge&logo=academia&logoColor=white" alt="ISC2 CC Practice Quiz" height="32">
+  </a>
+</div>
 
 ## Tools & Languages
 <!-- Tools -->
-<p align="left">
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6600" alt="Burp Suite" width="54" height="54" style="margin-right: 18px;"/>
-  <img src="https://cdn.simpleicons.org/vmware/607078" alt="VMware" width="54" height="54" style="margin-right: 18px;"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="54" height="54" style="margin-right: 18px;"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="54" height="54" style="margin-right: 18px;"/>
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="54" height="54" style="margin-right: 18px;"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6600" alt="Burp Suite" width="54" height="54" style="margin-right: 20px;"/>
+  <img src="https://cdn.simpleicons.org/vmware/607078" alt="VMware" width="54" height="54" style="margin-right: 20px;"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="54" height="54" style="margin-right: 20px;"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="54" height="54" style="margin-right: 20px;"/>
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="54" height="54" style="margin-right: 20px;"/>
 </p>
 
 <!-- Languages -->
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="54" height="54" style="margin-right: 18px;"/>
+  
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="54" height="54" style="margin-right: 18px;"/>
   <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java" width="54" height="54" style="margin-right: 18px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="54" height="54" style="margin-right: 18px;"/>
@@ -45,9 +52,12 @@ I am always eager to know How things Work, Don't you ?
 </p>
 
 
-##
-![sudo-hope0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-hope0529&show_icons=true)
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-hope0529&count_private=false)
+## Statistics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudo-hope0529&theme=github" width="340" style="margin-right: 16px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudo-hope0529"  width="505" alt="GitHub Streak" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=sudo-hope0529&show_icons=true&count_private=true&hide_rank=false&card_width=340" height="200"/> -->
+</p>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishna-d-3725b3308)
