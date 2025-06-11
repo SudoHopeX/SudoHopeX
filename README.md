@@ -64,13 +64,13 @@ I am always eager to know How things Work, Don't you ?
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sud0hope.techie@gmail.com)
 [![Hack-tree](https://img.shields.io/badge/-Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://sudo-hope0529.github.io/Link-tree/)
 
-<!--
+
 ## Profile Views
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-hope0529.sudo-hope0529" alt="Profile Views" style="width: 240px; height: 60px;"/>
-</div> -->
+</div> 
 
-### Thanks for having a look over my profile! Have a great day! 😊
+### Thanku for having a look over my profile! Have a great day! 😊
 <!---
 Hope0529.py/README.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
