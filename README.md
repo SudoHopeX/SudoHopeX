@@ -25,12 +25,11 @@ I am always eager to know How things Work, Don't you ?
 #### ISC² CC Practice Quiz => [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Tools
-![Burp Suite](https://img.shields.io/badge/-?style=flat&logo=burpsuite&color=transparent&logoWidth=32&label=)
-![VMware](https://img.shields.io/badge/-?style=flat&logo=vmware&label=&color=transparent&logoWidth=32)
-![WSL](https://img.shields.io/badge/-?style=flat&logo=linux&label=&color=transparent&logoWidth=32)
-![Linux](https://img.shields.io/badge/-?style=flat&logo=linux&label=&color=transparent&logoWidth=32)
-![Docker](https://img.shields.io/badge/-?style=flat&logo=docker&label=&color=transparent&logoWidth=32)
-![Visual Studio Code](https://img.shields.io/badge/-?style=flat&logo=visual-studio-code&label=&color=transparent&logoWidth=32)
+<img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="32" />
+<img src="https://cdn.simpleicons.org/vmware/607078" width="32" />
+<img src="https://cdn.simpleicons.org/linux/000000" width="32" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="32" />
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="32" />
 
 
 
