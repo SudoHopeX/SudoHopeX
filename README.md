@@ -25,7 +25,7 @@ I am always eager to know How things Work, Don't you ?
 #### ISC² CC Practice Quiz => [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Tools
-![](https://img.shields.io/badge/-Burp%20Suite-1f1f1f?logo=burp-suite)
+![](https://img.shields.io/badge/-Burp%20Suite-1f1f1f)
 ![VMware](https://img.shields.io/badge/-VMware-1f1f1f?style=flat&logo=vmware)
 ![WSL](https://img.shields.io/badge/-WSL-1c1c1c?style=flat&logo=linux)
 ![Linux](https://img.shields.io/badge/-Linux-5e35b1?style=flat&logo=linux)
@@ -44,8 +44,8 @@ I am always eager to know How things Work, Don't you ?
 
 
 ---
-![sudo-hope0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-hope0529&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-hope0529&layout=compact&theme=radical&count_private=false)
+![sudo-hope0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-hope0529&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-hope0529&layout=compact&count_private=false)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishna-d-3725b3308)
