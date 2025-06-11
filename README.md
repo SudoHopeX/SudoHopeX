@@ -62,7 +62,7 @@ I am always eager to know How things Work, Don't you ?
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-hope0529.sudo-hope0529" alt="Profile Views" style="width: 240px; height: 60px;"/>
 </div>
 
-### Thanks for visiting my profile! Have a great day! 😊
+### Thanks for having a look over my profile! Have a great day! 😊
 <!---
 Hope0529.py/README.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
