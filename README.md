@@ -43,9 +43,9 @@ I am always eager to know How things Work, Don't you ?
 ![Java](https://img.shields.io/badge/-Java-1f1f1f?style=flat&logo=java)
 
 
----
+##
 ![sudo-hope0529's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-hope0529&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-hope0529&layout=compact&count_private=false)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-hope0529&count_private=false)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishna-d-3725b3308)
