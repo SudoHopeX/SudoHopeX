@@ -25,12 +25,7 @@ I am always eager to know How things Work, Don't you ?
 #### ISC² CC Practice Quiz => [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Tools
-<img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="32" />
-<img src="https://cdn.simpleicons.org/vmware/607078" width="32" />
-<img src="https://cdn.simpleicons.org/linux/000000" width="32" />
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="32" />
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="32" />
-
+<img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="32" /><img src="https://cdn.simpleicons.org/vmware/607078" width="32" /><img src="https://cdn.simpleicons.org/linux/000000" width="32" /><img src="https://cdn.simpleicons.org/docker/2496ED" width="32" /><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="32" />
 
 
 ## Languages
