@@ -25,12 +25,12 @@ I am always eager to know How things Work, Don't you ?
 #### ISC² CC Practice Quiz => [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Tools
-![Burp Suite](https://img.shields.io/badge/-1f1f1f?style=flat&logo=burpsuite&label=)
-![VMware](https://img.shields.io/badge/-1f1f1f?style=flat&logo=vmware&label=)
-![WSL](https://img.shields.io/badge/-1c1c1c?style=flat&logo=linux&label=)
-![Linux](https://img.shields.io/badge/-5e35b1?style=flat&logo=linux&label=)
-![Docker](https://img.shields.io/badge/-0db7ed?style=flat&logo=docker&label=)
-![Visual Studio Code](https://img.shields.io/badge/-007acc?style=flat&logo=visual-studio-code&label=)
+![Burp Suite](https://img.shields.io/badge/-?style=flat&logo=burpsuite&label=&color=transparent&logoWidth=32)
+![VMware](https://img.shields.io/badge/-?style=flat&logo=vmware&label=&color=transparent&logoWidth=32)
+![WSL](https://img.shields.io/badge/-?style=flat&logo=linux&label=&color=transparent&logoWidth=32)
+![Linux](https://img.shields.io/badge/-?style=flat&logo=linux&label=&color=transparent&logoWidth=32)
+![Docker](https://img.shields.io/badge/-?style=flat&logo=docker&label=&color=transparent&logoWidth=32)
+![Visual Studio Code](https://img.shields.io/badge/-?style=flat&logo=visual-studio-code&label=&color=transparent&logoWidth=32)
 
 
 
