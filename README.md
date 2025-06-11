@@ -25,14 +25,14 @@ I am always eager to know How things Work, Don't you ?
 #### ISC² CC Practice Quiz => [Take Your Test](https://sudohope0529.github.io/cc-practice-quiz)
 
 ## Tools
-![](https://img.shields.io/badge/-Burp%20Suite-1f1f1f&logo=burpsuite)
-![VMware](https://img.shields.io/badge/-VMware-1f1f1f?style=flat&logo=vmware)
-![WSL](https://img.shields.io/badge/-WSL-1c1c1c?style=flat&logo=linux)
-![Linux](https://img.shields.io/badge/-Linux-5e35b1?style=flat&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat&logo=visual-studio-code)
-[![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-0a84ff?style=flat&logo=github&logoColor=white)](https://github.com/features/copilot)
-[![GPT-4.0](https://img.shields.io/badge/-GPT--4.0-1f1f1f?style=flat&logo=openai&logoColor=white)](https://openai.com/research/gpt-4)
+![Burp Suite](https://img.shields.io/badge/-1f1f1f?style=flat&logo=burpsuite&label=)
+![VMware](https://img.shields.io/badge/-1f1f1f?style=flat&logo=vmware&label=)
+![WSL](https://img.shields.io/badge/-1c1c1c?style=flat&logo=linux&label=)
+![Linux](https://img.shields.io/badge/-5e35b1?style=flat&logo=linux&label=)
+![Docker](https://img.shields.io/badge/-0db7ed?style=flat&logo=docker&label=)
+![Visual Studio Code](https://img.shields.io/badge/-007acc?style=flat&logo=visual-studio-code&label=)
+
+
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=python&logoColor=white)
