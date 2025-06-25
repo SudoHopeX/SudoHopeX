@@ -50,7 +50,7 @@ I am always eager to know How things Work, Don't you ?
 ## Statistics
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudo-hope0529&theme=github" width="340" style="margin-right: 16px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudo-hope0529"  width="505" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sudo-hope0529" width="505" alt="GitHub Streak"/>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=sudo-hope0529&show_icons=true&count_private=true&hide_rank=false&card_width=340" height="200"/> -->
 </p>
 
