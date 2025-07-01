@@ -16,14 +16,7 @@ I am always eager to know How things Work, Don't you ?
 - [Mail me](mailto:sud0hope.techie@gmail.com) and let me know what you think ?
 
 ## Projects
-<div align="center">
-  <a href="https://github.com/sudo-hope0529/HashStorm" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/HashStorm-Hash%20Identifier%20%26%20Cracker-4B8BBE?style=for-the-badge&logo=hashnode&logoColor=white" alt="HashStorm" height="32">
-  </a>
-  <a href="https://sudohope0529.github.io/cc-practice-quiz" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/ISC²%20CC%20Practice%20Quiz-Take%20Your%20Test-0081C9?style=for-the-badge&logo=academia&logoColor=white" alt="ISC2 CC Practice Quiz" height="32">
-  </a>
-</div>
+Read my projects, Articles & writeups at => [sudo-hope0529.github.io](https://sudo-hope0529.github.io/)
 
 ## Tools & Languages
 <!-- Tools -->
