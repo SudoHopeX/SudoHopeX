@@ -86,7 +86,7 @@
     Bug Bounty
   </text> -->
   <text x="200" y="155" fill="#fff" font-family="Fira Mono, monospace" font-size="20" stroke="#fff" stroke-width="1">
-    I'm Krishna Dwivedi [sudo-hope0529]
+    SudoHopeX [ Krishna Dwivedi ]
     <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2s" fill="freeze" repeatCount="1"/>
     <animate attributeName="stroke-dasharray" values="0; 100; 200; 300" dur="2s" repeatCount="1" />
   </text>
