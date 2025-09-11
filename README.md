@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=435&lines=Welcome+to+My+Profile!;Ethical+Hacker;Cyber+Security+Awareness+Advocate;Python" alt="Ethical Hacker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=435&lines=Welcome+to+My+Profile!;Ethical+Hacker;Cyber+Security+Awareness+Advocate;Cyber+Mentor;Python" alt="Ethical Hacker" />
  
 
 - 🌐 I love exploring new info, technologies, and improving my skills.
