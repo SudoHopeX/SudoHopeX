@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="https://github.com/SudoHopeX/SudoHopeX/blob/305eb779ee4256af6e33a74437bbeac790876967/readme.svg" width="100%" alt="SudoHopeX ReadMe" select="None"/>
-</p>
-
-
-<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/sudohopex/sudohopex/main/animation.svg" width="100%" alt="Hacker & Bug Bounty Enthusiast" />
 </p>
 
@@ -48,7 +43,7 @@ Read my projects, Articles & writeups at => [SudoHopeX.github.io](https://sudoho
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudohopex&theme=github" width="340" style="margin-right: 16px;"/>
   <img src="https://streak-stats.demolab.com?user=sudohopex" width="505" alt="GitHub Streak"/>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=sudohopex&show_icons=true&count_private=true&hide_rank=false&card_width=340" height="200"/> -->
-<!-- </p>
+</p>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dkrishna0124)
