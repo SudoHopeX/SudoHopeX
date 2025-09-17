@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SudoHopeX/SudoHopeX/blob/305eb779ee4256af6e33a74437bbeac790876967/readme.svg"  width="100%" alt="SudoHopeX ReadMe" />
+  <img src="https://github.com/SudoHopeX/SudoHopeX/blob/305eb779ee4256af6e33a74437bbeac790876967/readme.svg" width="100%" alt="SudoHopeX ReadMe" select="None"/>
 </p>
 
 
