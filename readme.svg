@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="1900" width="940" style="pointer-events: none;">
+<svg xmlns="http://www.w3.org/2000/svg" height="1900" width="940">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Fira+Code&amp;family=Space+Mono&amp;display=swap');
     .bg {
@@ -48,10 +48,10 @@
       </ul>
       <h2 xmlns="http://www.w3.org/1999/xhtml">Fun Fact</h2>
       <p xmlns="http://www.w3.org/1999/xhtml">I am always eager to know How things Work, Don't you ?</p>
-      <p><a xlink:href="mailto:sud0hope.techie@gmail.com">Mail me</a> and let me know what you think ?</p>
+      <p><a href="mailto:sud0hope.techie@gmail.com">Mail me</a> and let me know what you think ?</p>
       <h2>Projects</h2>
       <p>Read my projects, Articles &amp; writeups at =&gt;
-        <a xlink:href="https://sudohopex.github.io">SudoHopeX.GitHub.io</a>
+        <a href="https://sudohopex.github.io">SudoHopeX.GitHub.io</a>
       </p>
       <h2>Tools &amp; Languages</h2>
       <p align="center">
