@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134%" height="350%">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code&amp;family=Space+Mono&amp;display=swap');
+    .bg {
+      animation: bgshift 20s infinite alternate;
+    }
+    @keyframes bgshift {
+      0% { fill: #001010; }
+      50% { fill: #001a12; }
+      100% { fill: #000; }
+    }
+    .container {
+      font-family: 'Fira Code', monospace;
+      font-size: 16px;
+      line-height: 1.6;
+      color: #7fffd4;
+      padding: 24px;
+    }
+     h2 { border-bottom: 1px solid #4ff; margin-top: 30px;}
+    h1,h2,h3 { color: #00ff99; }
+    a { color: #4ff; text-decoration: none; }
+    code { background: rgba(0,255,180,0.08); padding: 2px 4px; border-radius: 4px; }
+  </style>
+
+  <!-- animated background -->
+  <rect class="bg" width="100%" height="100%" fill="#000"/>
+
+  <!-- scrolling binary overlay -->
+  <text xmlns="http://www.w3.org/2000/svg" x="40%" y="0" text-anchor="middle" font-size="220" fill="#004422" opacity="0.2">H4CK3R<animate attributeName="y" from="-200" to="101%" dur="15s" repeatCount="indefinite"/>
+  </text>
+<text xmlns="http://www.w3.org/2000/svg" x="40%" y="0" text-anchor="middle" font-size="220" fill="#004422" opacity="0.2">H4CK3R<animate xmlns="http://www.w3.org/2000/svg" attributeName="y" from="-800" to="90%" dur="20s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- foreground HTML content -->
+  <foreignObject xmlns="http://www.w3.org/2000/svg" x="40" y="40" width="845px" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+
+      <p align="center">
+        <img xmlns="http://www.w3.org/1999/xhtml" src="https://raw.githubusercontent.com/sudohopex/sudohopex/main/animation.svg" width="100%" alt="Hacker &amp; Bug Bounty Enthusiast" />
+      </p>
+
+      <p xmlns="http://www.w3.org/1999/xhtml" align="left" style="margin-left: 40px;">
+          <img xmlns="http://www.w3.org/1999/xhtml" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=700&amp;width=435&amp;lines=Welcome+to+SudoHopeX+Profile!;Ethical+Hacker;Cyber+Security+Awareness+Advocate;Cyber+Mentor;Python Dev" alt="Ethical Hacker" />
+      </p>
+
+      <ul>
+        <li>🌐 I love exploring new info, technologies, and improving my skills.</li>
+        <li>🌱  I’m currently exploring Cyber Security(Ethical Hacking - Pentest, InfoSec), Python.</li>
+        <li>💼 I’m looking to collaborate on open-source projects.</li>
+        <li>💬 Ask me about Cyber Security and Python.</li>
+      </ul>
+
+      <h2 xmlns="http://www.w3.org/1999/xhtml">Fun Fact</h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">I am always eager to know How things Work, Don't you ?</p>
+      <p><a href="mailto:myemail">Mail me</a> and let me know what you think ?</p>
+
+      <h2>Projects</h2>
+      <p>Read my projects, Articles &amp; writeups at =&gt;
+        <a href="https://sudohopex.github.io">SudoHopeX.GitHub.io</a>
+      </p>
+
+      <h2>Tools &amp; Languages</h2>
+      <p align="center">
+        <img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="54" />
+        <img src="https://cdn.simpleicons.org/vmware/607078" width="54" />
+        <img src="https://cdn.simpleicons.org/linux/FCC624" width="54" />
+        <img src="https://cdn.simpleicons.org/docker/2496ED" width="54" />
+        <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="54" />
+      </p>
+
+      <p align="center">
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="54" />
+        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="54" />
+        <img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" width="54" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="54" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="54" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="54" />
+      </p>
+
+      <h2>Statistics</h2>
+      <p align="center">
+        <img xmlns="http://www.w3.org/1999/xhtml" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudohopex&amp;theme=github" width="340" />
+        <img xmlns="http://www.w3.org/1999/xhtml" src="https://streak-stats.demolab.com?user=sudohopex" width="505" alt="GitHub Streak" />
+      </p>
+
+      <h2>Connect with Me</h2>
+      <p xmlns="http://www.w3.org/1999/xhtml" align="center">
+        <a xmlns="http://www.w3.org/1999/xhtml" href="https://www.linkedin.com/in/dkrishna0124" style="border: 1px solid; padding: 4px;">LinkedIn</a> ·
+        <a xmlns="http://www.w3.org/1999/xhtml" href="mailto:sud0hope.techie@gmail.com" style="border: 1px solid; padding: 4px;">Email</a> ·
+        <a xmlns="http://www.w3.org/1999/xhtml" href="https://sudohopex.github.io/Link-tree/" style="border: 1px solid; padding: 4px;">Linktree</a>
+      </p>
+
+      <h2>Profile Views</h2>
+      <p align="center">
+        <img xmlns="http://www.w3.org/1999/xhtml" src="https://visitor-badge.laobi.icu/badge?page_id=sudohopex.sudohopex" alt="Profile Views" width="240" height="60" />
+      </p>
+
+      <h3> Thanku for having a look over my profile! Have a great day! 😊</h3>
+    </div>
+  </foreignObject>
+</svg>
