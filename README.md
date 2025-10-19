@@ -42,7 +42,7 @@ Read my projects, Articles & writeups at => [SudoHopeX.github.io](https://sudoho
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudohopex&theme=github" width="340" style="margin-right: 16px;"/>
   <img src="https://streak-stats.demolab.com?user=sudohopex" width="505" alt="GitHub Streak"/>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=sudohopex&show_icons=true&count_private=true&hide_rank=false&card_width=340" height="200"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sudohopex&show_icons=true&count_private=true&hide_rank=false&card_width=340" height="200"/>
 </p>
 
 ## Connect with Me
