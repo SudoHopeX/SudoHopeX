@@ -78,7 +78,7 @@
   <!-- Self-drawing text for hacker and bug bounty -->
   <text x="200" y="90" fill="#39FF14" font-family="Fira Mono, monospace" font-size="58" font-weight="bold" stroke="#39FF14" stroke-width="2" stroke-dasharray="1000" stroke-dashoffset="1000">
     <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2s" fill="freeze" repeatCount="1"/>
-    Ethical Hacker
+    Hacker
     <animate attributeName="stroke-dasharray" values="0; 100; 200; 300" dur="2s" repeatCount="1" />
   </text>
   <!-- <text x="200" y="118" fill="#F44336" font-family="Fira Mono, monospace" font-size="35" font-weight="bold" stroke="#F44336" stroke-width="2" stroke-dasharray="1000" stroke-dashoffset="1000">
