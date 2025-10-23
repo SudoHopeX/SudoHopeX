@@ -16,7 +16,7 @@ I am always eager to know How things Work, Don't you ?
 - [Mail me](mailto:sud0hope.techie@gmail.com) and let me know what you think ?
 
 ## Projects
-Read my projects, Articles & writeups at => [SudoHopeX.github.io](https://sudohopex.github.io/)
+Read my projects, Articles & writeups at => [Hope.is-a.dev](https://hope.is-a.dev/)
 
 ## Tools & Languages
 <p align="center">
