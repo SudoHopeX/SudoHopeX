@@ -43,7 +43,8 @@ Read my projects, Articles & writeups at => [Hope.is-a.dev](https://hope.is-a.de
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudohopex&theme=github" width="340" style="margin-right: 16px;"/>
   <!-- <img src="https://streak-stats.demolab.com?user=sudohopex" width="505" alt="GitHub Streak"/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sudohopex&show_icons=true&count_private=true&hide_rank=false&card_width=340" height="200"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sudohopex&show_icons=true&count_private=true&hide_rank=false&card_width=340" height="200"/> -->
+  <img src="https://metrics.lecoq.io/sudohopex?template=productivity&icon=1&rank=1" style="border: 2px solid white; border-radius: 15px;" height="200" />   
 </p>
 
 ## Connect with Me
@@ -54,7 +55,7 @@ Read my projects, Articles & writeups at => [Hope.is-a.dev](https://hope.is-a.de
 
 ## Profile Views
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudohopex.sudohopex&&left_text=Profile%20Views" alt="Profile Views" style="width: 240px; height: 60px;"/>
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=sudohopex.sudohopex&&left_text=Profile%20Views" alt="Profile Views" style="width: 240px; height: 60px;"/> -->
 </div> 
 
 ### Thanku for having a look over my profile! Have a great day! 😊 -->
