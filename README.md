@@ -55,7 +55,7 @@ Read my projects, Articles & writeups at => [Hope.is-a.dev](https://hope.is-a.de
 
 ## Profile Views
 <div align="center">
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=sudohopex.sudohopex&&left_text=Profile%20Views" alt="Profile Views" style="width: 240px; height: 60px;"/> -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudohopex.sudohopex&&left_text=Profile%20Views" alt="Profile Views" style="width: 240px; height: 60px;"/>
 </div> 
 
 ### Thanku for having a look over my profile! Have a great day! 😊 -->
