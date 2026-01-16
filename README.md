@@ -13,7 +13,7 @@
 
 ## Fun Fact
 I am always eager to know How things Work, Don't you ?
-- [Mail me](mailto:sud0hope.techie@gmail.com) and let me know what you think ?
+- [Mail me](mailto:whoami0100@proton.me) and let me know what you think ?
 
 ## Projects
 Read my projects, Articles & writeups at => [Hope.is-a.dev](https://hope.is-a.dev/)
@@ -43,7 +43,7 @@ Read my projects, Articles & writeups at => [Hope.is-a.dev](https://hope.is-a.de
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudohopex&theme=github" width="340" style="margin-right: 16px;"/>
   <!-- <img src="https://streak-stats.demolab.com?user=sudohopex" width="505" alt="GitHub Streak"/> -->
-  <img src="https://github-readme-stats-sudohopex.vercel.app/api?username=sudohopex&show_icons=true&count_private=true&hide_rank=false&card_width=340" height="200"/>
+  <img src="https://github-readme-stats-sudohopex.vercel.app/api?username=sudohopex&show_icons=true&count_private=true&hide_rank=false&card_width=340" height="202"/>
   <!-- <img src="https://metrics.lecoq.io/sudohopex?template=productivity&icon=1&rank=1" style="border: 2px solid white; border-radius: 15px;" height="200" />    -->
 </p>
 
