@@ -46,10 +46,7 @@ Read my projects, Articles & writeups at => [Hope.is-a.dev](https://hope.is-a.de
 </p>
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dkrishna0124)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sud0hope.techie@gmail.com)
-[![Hack-tree](https://img.shields.io/badge/-Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://sudohopex.github.io/Link-tree/)
-
+[Get mY NetWorking Endpoints](https://hope.is-a.dev/Link-tree)
 
 <div align="center">
   <img 
