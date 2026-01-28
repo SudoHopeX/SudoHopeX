@@ -13,7 +13,7 @@
 
 ## Fun Fact
 I am always eager to know How things Work, Don't you ?
-- [Mail me](mailto:whoami0100@proton.me) and let me know what you think ?
+- [Mail me](mailto:whoami0100@proton.me) - `whoami0100@proton.me` and let me know what you think ?
 - or **Connect with Me 👉 [mY NetWorking Endpoints](https://hope.is-a.dev/Link-tree)**
 
 ## Projects
