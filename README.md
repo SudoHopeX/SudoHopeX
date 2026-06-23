@@ -15,6 +15,7 @@
 I am always eager to know How things Work, Don't you ?
 - [Mail me](mailto:whoami0100@proton.me) - `whoami0100@proton.me` and let me know what you think ?
 - or **Connect with Me 👉 [mY NetWorking Endpoints](https://hope.is-a.dev/Link-tree)**
+- **[Send PGP Encrypted MSG](https://hope.is-a.dev/send-encrypted-mail/)** OR [Download Public PGP Encryption Key](https://hope.is-a.dev/send-encrypted-mail/sudohopex-pgp-encryption-key.asc)
 
 ## Projects
 Read my projects, Articles & writeups at => [Hope.is-a.dev](https://hope.is-a.dev/)
